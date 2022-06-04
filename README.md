@@ -20,6 +20,6 @@ jupyter notebook, keras, sklearn, open cv
 
 가중치 모델
 
-my_model2 -> 10개 종류(speed classfication x)
+my_model -> 10개 종류(speed classfication x)
 
-my_model3 -> 최신 정확도(accuracy 높음)
+my_model2 -> 최신 정확도(accuracy 높음)
