@@ -23,3 +23,5 @@ jupyter notebook, keras, sklearn, open cv
 my_model -> 10개 종류(speed classfication x)
 
 my_model2 -> 최신 정확도(accuracy 높음)
+
+TrafficSignModel2.ipynb --> detect 기능 넣기위해 새로 편집한 모델(원형 표지판으로만 학습)
