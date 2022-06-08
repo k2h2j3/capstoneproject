@@ -10,13 +10,13 @@ jupyter notebook, keras, sklearn, open cv
 
 2. 개발 진행도
 
-1. CNN 머신러닝 모델링 -> accuracy 95% loss 10% 
+ CNN 머신러닝 모델링 -> accuracy 95% loss 10% 
 
-2. open cv를 통해 모델 테스트 -> 노트북 캠 사용
+ open cv를 통해 모델 테스트 -> 노트북 캠 사용
 
-3. 스마트폰 카메라 연동 -> 스마트폰 연동 o, detection 기능 필요(진행중)
+ 스마트폰 카메라 연동 -> 스마트폰 연동 o, detection 기능 필요(진행중)
 
-4. 어플리케이션 개발 -> 
+ 어플리케이션 개발 -> 
 
 
 3. 가중치 모델
